@@ -22,6 +22,8 @@ The output from the function to decode returns a character string based on the q
 
   If the given image contains a QRcode such as the following,
 
+  <img width="95" alt="qrimg" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/6fa8eee7-b212-49e7-a60a-91cca083d09e">
+
   The output of the decoded QRcode is as shown below
 
   <img width="420" alt="QRdecodedop" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/b0b51ed2-39ed-410a-8a0d-39c4aacf27c5">
