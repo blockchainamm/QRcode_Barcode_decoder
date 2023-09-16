@@ -13,7 +13,9 @@ The output from the function to decode returns a character string based on the q
 - Bar code decoding
 
   If the given image contains a bar code such as the following,
-
+  
+  ![barcode_small](https://github.com/blockchainamm/QRcode_Barcode_decoder/assets/82846751/baf37751-9025-4cba-8f26-a253468b199e)
+ 
   The output of the decoded bar code is as shown below
 
   <img width="354" alt="Baecodedecodeop" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/457140be-1c07-491a-aa47-8f39e899edbe">
