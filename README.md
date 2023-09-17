@@ -4,7 +4,13 @@ This python script can decode QRcode and Bar code from a given image.
 
 The user is prompted to enter the file name, if the entered file name exists in the current working directory a function to decode the QRcode or Bar code is invoked.
 
-- If the output from the function to decode returns an empty list a message "Not possible to decode data from image" is displayed as shown below
+- Image not clear to decode
+  
+  If the given image contains a bar code such as the following wherein the image is not clear,
+
+  ![barcode1_small](https://github.com/blockchainamm/blockchainamm/assets/82846751/2deed961-f0aa-433f-b90f-8e0fcc3e5a4e)
+  
+  If the output from the function to decode returns an empty list a message "Not possible to decode data from image" is displayed as shown below
   
   <img width="294" alt="QRnotpossible" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/97381b22-fb29-48de-a446-e2322a376937">
 
